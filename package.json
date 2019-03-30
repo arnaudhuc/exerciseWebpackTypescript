@@ -38,6 +38,6 @@
     }
   },
   "lint-staged": {
-    "*/**.tsx": ["prettier --write", "git add"]
+    "*/**.tsx": ["eslint --fix", "prettier --write", "git add"]
   }
 }
