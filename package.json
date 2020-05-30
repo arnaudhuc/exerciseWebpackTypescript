@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/lodash": "4.14.153",
+    "@types/lodash": "4.14.154",
     "awesome-typescript-loader": "5.2.1",
     "css-loader": "3.5.3",
     "eslint": "7.1.0",
