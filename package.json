@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/lodash": "4.14.159",
     "awesome-typescript-loader": "5.2.1",
-    "css-loader": "4.2.0",
+    "css-loader": "4.2.1",
     "eslint": "7.6.0",
     "file-loader": "6.0.0",
     "html-webpack-plugin": "4.3.0",
